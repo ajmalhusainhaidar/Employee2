@@ -1,2 +1,2 @@
 # Employee2
-new repo
+lab 2 session
